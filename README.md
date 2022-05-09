@@ -12,7 +12,7 @@ Book Finder is an application built using the MERN stack with a React front end,
 
 - [Technologies Used](#technologies-used)
 
-- [License](#license)
+- [Links](#links)
 
 - [Questions](#questions)
 
@@ -27,8 +27,10 @@ User just need to head to the website in order to access the functions.
 - Heroku
 - Apollo
 
-## License
-none
+## Links
+Github Link: https://github.com/ycheng2021/Book-Finder
+
+Deployed Link: https://shielded-sierra-55896.herokuapp.com/
 
 ## Questions
 Github link: https://github.com/ycheng2021
